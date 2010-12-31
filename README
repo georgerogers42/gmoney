@@ -1,0 +1,2 @@
+To install change the -I option of the scripts shebang line to where the .pm files are.
+Then put the scripts in your cgi-bin
